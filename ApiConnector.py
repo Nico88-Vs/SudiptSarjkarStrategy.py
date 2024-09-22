@@ -7,7 +7,7 @@ class Connector():
         # Replace these values with your actual API credentials
         self.client_id = "46OAC8DRLG-100"
         self.secret_key = "94I7H2K4SZ"
-        self.redirect_uri = "https://sudiptsarjkarstrategy.streamlit.app"
+        self.redirect_uri = "https://trade.fyers.in/api-login/redirect-uri/index.html"
         self.response_type = "code"  
         self.state = "sample_state"
     
