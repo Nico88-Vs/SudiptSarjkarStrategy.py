@@ -2,3 +2,4 @@ streamlit
 fyers-apiv3
 pandas
 numpy
+urllib.parse
