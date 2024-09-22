@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D102079-5D64-4BCA-886D-FB79DE80DE5C}|SudiptStrategi.pyproj|A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D102079-5D64-4BCA-886D-FB79DE80DE5C}|SudiptStrategi.pyproj|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D102079-5D64-4BCA-886D-FB79DE80DE5C}|SudiptStrategi.pyproj|A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D102079-5D64-4BCA-886D-FB79DE80DE5C}|SudiptStrategi.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D102079-5D64-4BCA-886D-FB79DE80DE5C}|SudiptStrategi.pyproj|A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\SudiptStrategi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7D102079-5D64-4BCA-886D-FB79DE80DE5C}|SudiptStrategi.pyproj|solutionrelative:SudiptStrategi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-22T09:08:28.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-22T09:07:22.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SudiptStrategi.py",
               "DocumentMoniker": "A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\SudiptStrategi.py",
               "RelativeDocumentMoniker": "SudiptStrategi.py",
