@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D102079-5D64-4BCA-886D-FB79DE80DE5C}|SudiptStrategi.pyproj|A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\SudiptStrategi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D102079-5D64-4BCA-886D-FB79DE80DE5C}|SudiptStrategi.pyproj|solutionrelative:SudiptStrategi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SudiptStrategi.py",
+              "DocumentMoniker": "A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\SudiptStrategi.py",
+              "RelativeDocumentMoniker": "SudiptStrategi.py",
+              "ToolTip": "A:\\A_Cloned_Repo\\SudiptSarjkarStrategy.py\\SudiptStrategi.py",
+              "RelativeToolTip": "SudiptStrategi.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-22T08:55:55.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
