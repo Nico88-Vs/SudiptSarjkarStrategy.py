@@ -32,6 +32,13 @@ try:
 except :
     pass
 
+if "AUTH" in st.session_state:
+    st.write(st.session_state.AUTH)
+else:
+   st.write("nooooo") 
+            
+if "REFRESH" in st.session_state:
+    st.write(st.session_state.REFRESH)
 
 connector = cnn.Connector()
 
