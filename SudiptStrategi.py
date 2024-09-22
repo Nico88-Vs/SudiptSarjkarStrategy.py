@@ -9,7 +9,9 @@ st.title("start")
 # st.write(query_params)
 try:
     debug = st.query_params.keys()
-    query_params = st.query_params.get("access_token")
+    query_params = st.query_params.get("auth_code")
+    
+    st.write(query_params)
     
     st.write( debug)
      
